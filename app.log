@@ -1,3 +1,12 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"3.240\"}","timestamp":"2024-11-08T03:42:04.993Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"0.564\"}","timestamp":"2024-11-08T03:43:50.831Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"0.290\"}","timestamp":"2024-11-08T03:43:54.837Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"7.579\"}","timestamp":"2024-11-10T04:44:26.442Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"1.052\"}","timestamp":"2024-11-10T04:44:40.619Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"0.725\"}","timestamp":"2024-11-10T04:49:15.175Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"1.015\"}","timestamp":"2024-11-10T04:50:12.098Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"0.838\"}","timestamp":"2024-11-10T04:50:13.858Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"0.572\"}","timestamp":"2024-11-10T04:51:45.180Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"200\",\"responseTime\":\"1.078\"}","timestamp":"2024-11-10T04:54:49.752Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/tea\",\"status\":\"404\",\"responseTime\":\"5.292\"}","timestamp":"2024-11-10T04:57:12.741Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/displayTea\",\"status\":\"200\",\"responseTime\":\"1.374\"}","timestamp":"2024-11-10T04:57:33.627Z"}

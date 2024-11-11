@@ -1,8 +1,11 @@
+import "dotenv/config"
 import express from 'express';
 import morgan from 'morgan';
 import logger from './logger.js';
+
+
 const app = express();
-const port =2010;
+const port =process.env.PORT ||2010;
 const morganFormat = ":method :url :status :response-time ms";
 
 app.use(express.json())
